@@ -1,0 +1,7 @@
+../Src/main.c:32:6:USART1_Write	2
+../Src/main.c:38:6:USART1_Print	2
+../Src/main.c:45:5:__io_putchar	1
+../Src/main.c:51:6:UART1_Init	1
+../Src/main.c:68:6:ADC_Init_Chan2	1
+../Src/main.c:93:14:ADC1_Read	2
+../Src/main.c:98:5:main	2
